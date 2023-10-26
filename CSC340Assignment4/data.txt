@@ -1,0 +1,11 @@
+ID, First Name, Last Name, Email,
+1,Dragon,shrimp,@gmail
+2,Tiger,s,@yahoo
+3,asd,dsa,@uncg
+4,troy,a,@email
+5,Bowser,B,@mario
+6,Tiki,Tiki,@#
+7,Freya,a,@!
+23,123viks,456123,789www
+9,Hello.,There.,Friend.
+10,dsadddddd,435sdf,@affsd
